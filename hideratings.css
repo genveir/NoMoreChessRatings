@@ -1,0 +1,55 @@
+.user-tagline-rating {
+    display: none;
+}
+
+.user-rating {
+    display: none;
+}
+
+.post-view-meta-rating {
+    display: none;
+}
+
+.stat-section-user-rating {
+    display: none;
+}
+
+.new-rating-component {
+    display: none!important;
+}
+
+div[data-notification="gameOver"] {
+    display: none;
+}
+
+div[data-notification="gameNewGamePlaying"] {
+    display: none;
+}
+
+.rating-change-component {
+    display: none!important;
+}
+
+.user-tagline-popover-rating {
+    display: none;
+}
+
+.stat-section-chart {
+    display: none;
+}
+
+.stat-text-data-rating-change {
+    display: none!important;
+}
+
+.user-rating-component {
+    display: none!important;
+}
+
+ul.ratings {
+    display: none!important;
+}
+
+.game-over-arena-rating {
+    display: none;
+}
