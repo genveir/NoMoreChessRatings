@@ -53,3 +53,11 @@ ul.ratings {
 .game-over-arena-rating {
     display: none;
 }
+
+.user-rating-animated-component {
+    display: none!important;
+}
+
+.game-info-item-component {
+    display: none;
+}
