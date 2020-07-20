@@ -61,3 +61,8 @@ ul.ratings {
 .game-info-item-component {
     display: none;
 }
+
+.notification-challenge-issued {
+	display: none;
+}
+}
