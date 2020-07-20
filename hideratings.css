@@ -65,3 +65,19 @@ ul.ratings {
 .notification-challenge-issued {
 	display: none;
 }
+
+.rated-sidebar-start-rating {
+    display: none;
+}
+
+.puzzle-stat-stat {
+    display: none;
+}
+
+.live-game-over-component {
+    display: none;
+}
+
+.live-game-start-component {
+    display: none;
+}
