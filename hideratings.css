@@ -1,83 +1,24 @@
-.user-tagline-rating {
-    display: none;
-}
-
-.user-rating {
-    display: none;
-}
-
-.post-view-meta-rating {
-    display: none;
-}
-
-.stat-section-user-rating {
-    display: none;
-}
-
-.new-rating-component {
-    display: none!important;
-}
-
+.game-info-item-component,
+.game-over-arena-rating,
+.notification-challenge-issued,
+.post-view-meta-rating,
+.puzzle-stat-stat,
+.rated-sidebar-start-rating,
+.stat-section-chart,
+.stat-section-user-rating,
+.user-rating,
+.user-tagline-popover-rating,
+.user-tagline-rating,
+div[data-notification="gameNewGamePlaying"],
 div[data-notification="gameOver"] {
     display: none;
 }
 
-div[data-notification="gameNewGamePlaying"] {
-    display: none;
-}
-
-.rating-change-component {
-    display: none!important;
-}
-
-.user-tagline-popover-rating {
-    display: none;
-}
-
-.stat-section-chart {
-    display: none;
-}
-
-.stat-text-data-rating-change {
-    display: none!important;
-}
-
-.user-rating-component {
-    display: none!important;
-}
-
+.live-game-over-component .live-game-start-component .new-rating-component,
+.rating-change-component,
+.stat-text-data-rating-change,
+.user-rating-animated-component,
+.user-rating-component,
 ul.ratings {
-    display: none!important;
-}
-
-.game-over-arena-rating {
-    display: none;
-}
-
-.user-rating-animated-component {
-    display: none!important;
-}
-
-.game-info-item-component {
-    display: none;
-}
-
-.notification-challenge-issued {
-	display: none;
-}
-
-.rated-sidebar-start-rating {
-    display: none;
-}
-
-.puzzle-stat-stat {
-    display: none;
-}
-
-.live-game-over-component {
-    display: none;
-}
-
-.live-game-start-component {
-    display: none;
+    display: none !important;
 }
