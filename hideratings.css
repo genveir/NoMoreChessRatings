@@ -9,16 +9,23 @@
 .user-rating,
 .user-tagline-popover-rating,
 .user-tagline-rating,
+.game-over-modal-rating,
+.game-over-modal-league,
 div[data-notification="gameNewGamePlaying"],
 div[data-notification="gameOver"] {
     display: none;
 }
 
-.live-game-over-component .live-game-start-component .new-rating-component,
+.live-game-over-component,
+.live-game-start-component,
+.new-rating-component,
 .rating-change-component,
 .stat-text-data-rating-change,
 .user-rating-animated-component,
 .user-rating-component,
+.game-over-rating-component,
+.game-over-league-component,
+.rating-score-component,
 ul.ratings {
     display: none !important;
 }
