@@ -9,8 +9,12 @@
 .user-rating,
 .user-tagline-popover-rating,
 .user-tagline-rating,
+.top-user-score,
 .game-over-modal-rating,
 .game-over-modal-league,
+.game-start-message-component,
+.game-over-message-component,
+.cc-user-rating-default,
 div[data-notification="gameNewGamePlaying"],
 div[data-notification="gameOver"] {
     display: none;
