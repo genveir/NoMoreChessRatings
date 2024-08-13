@@ -1,6 +1,6 @@
 {
     "name": "No More Chess Ratings",
-    "version": "2.2",
+    "version": "2.3",
     "description": "Hides ratings on most screens of chess.com",
     "content_scripts": [
         {
