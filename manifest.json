@@ -1,6 +1,12 @@
 {
     "name": "No More Chess Ratings",
-    "version": "2.3",
+    "version": "2.7",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "nomorechessratings@geertenvink.nl",
+            "strict_min_version": "109.0"
+        }
+    },
     "description": "Hides ratings on most screens of chess.com",
     "content_scripts": [
         {

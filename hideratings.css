@@ -6,6 +6,9 @@
 .rated-sidebar-start-rating,
 .stat-section-chart,
 .stat-section-user-rating,
+.stats-rating,
+.stats-change,
+.stats-chart,
 .user-rating,
 .user-tagline-popover-rating,
 .user-tagline-rating,
@@ -15,6 +18,8 @@
 .game-start-message-component,
 .game-over-message-component,
 .cc-user-rating-default,
+.cc-user-rating-white,
+.cc-user-rating-boldest
 div[data-notification="gameNewGamePlaying"],
 div[data-notification="gameOver"] {
     display: none;
