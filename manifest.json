@@ -1,6 +1,6 @@
 {
     "name": "No More Chess Ratings",
-    "version": "2.7",
+    "version": "2.10",
     "browser_specific_settings": {
         "gecko": {
             "id": "nomorechessratings@geertenvink.nl",
